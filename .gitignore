@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+ai-maintenance-demo/
+*.pyc
