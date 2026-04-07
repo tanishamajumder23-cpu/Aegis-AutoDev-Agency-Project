@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🛡️ Aegis AutoDev Agency
@@ -407,3 +408,7 @@ MIT License — feel free to use, modify, and distribute.
 <div align="center">
 Built with ❤️ using <a href="https://www.crewai.com">CrewAI</a> · <a href="https://groq.com">Groq</a> · <a href="https://github.com">GitHub</a>
 </div>
+=======
+# Aegis-AutoDev-Agency-Project
+An Autonomous Multi-Agent Framework powered by CrewAI and Llama 3.3. It deploys a specialized AI squad to audit legacy files, architect refactor plans, and autonomously push self-healing fixes to GitHub. Aegis eliminates technical debt by transforming manual maintenance into an intelligent, automated pipeline.
+>>>>>>> 2cf021f91e3c5d07e36cd401b8b9cfbfd9fa530b
