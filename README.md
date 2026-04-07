@@ -408,5 +408,5 @@ MIT License — feel free to use, modify, and distribute.
 <div align="center">
 Built with ❤️ using <a href="https://www.crewai.com">CrewAI</a> · <a href="https://groq.com">Groq</a> · <a href="https://github.com">GitHub</a>
 </div>
-=======
+
 
