@@ -1,5 +1,5 @@
-def calc( a,b):
-res =a+ b
- return res
+def calc(a, b):
+res = a + b
+return res
 
-print(calc( 5, 10))
+print(calc(5, 10))
